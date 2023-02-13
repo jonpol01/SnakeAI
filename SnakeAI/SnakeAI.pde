@@ -10,7 +10,7 @@ float defaultmutation = mutationRate;
 
 boolean humanPlaying = false;  //false for AI, true to play yourself
 boolean replayBest = true;  //shows only the best of each generation
-boolean seeVision = false;  //see the snakes vision
+boolean seeVision = true;  //see the snakes vision
 boolean modelLoaded = false;
 
 PFont font;
